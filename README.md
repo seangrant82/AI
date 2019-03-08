@@ -20,4 +20,7 @@ NLP
 │
 └───RegEx
     │   Notebook 'cheatsheet' for RegEx in NLP
+└───Sentiment Analysis
+    │   Notebook using NLTK VADER 
+    │   Notebook using Flair 
 ```
