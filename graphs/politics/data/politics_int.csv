@@ -1,0 +1,82 @@
+﻿name,State of residence,Took office,Left office,president
+Thomas Ewing,Ohio,"March 8, 1849","July 22, 1850",Zachary Taylor
+Thomas Ewing,Ohio,"March 8, 1849","July 22, 1850",Millard Fillmore
+Thomas M. T. McKennan,Pennsylvania,"August 15, 1850","August 26, 1850",Millard Fillmore
+Alexander H. H. Stuart,Virginia,"September 14, 1850","March 7, 1853",Millard Fillmore
+Robert McClelland,Michigan,"March 8, 1853","March 9, 1857",Franklin Pierce
+Jacob Thompson,Mississippi,"March 10, 1857","January 8, 1861",James Buchanan
+Caleb B. Smith,Indiana,"March 5, 1861","December 31, 1862",Abraham Lincoln
+John P. Usher,Indiana,"January 1, 1862","May 15, 1864",Abraham Lincoln
+John P. Usher,Indiana,"January 1, 1863","May 15, 1865",Andrew Johnson
+James Harlan,Iowa,"May 16, 1865","August 31, 1866",Andrew Johnson
+Orville H. Browning,Illinois,"September 1, 1866","March 4, 1869",Andrew Johnson
+Jacob D. Cox,Ohio,"March 5, 1869","October 31, 1870",Ulysses S. Grant
+Columbus Delano,Ohio,"November 1, 1870","September 30, 1875",Ulysses S. Grant
+Zachariah Chandler,Michigan,"October 19, 1875","March 11, 1877",Ulysses S. Grant
+Carl Schurz,Missouri,"March 12, 1877","March 7, 1881",Rutherford B. Hayes
+Samuel J. Kirkwood,Iowa,"March 8, 1881","April 17, 1882",James A. Garfield
+Samuel J. Kirkwood,Iowa,"March 8, 1881","April 17, 1882",Chester A. Arthur
+Henry M. Teller,Colorado,"April 18, 1882","March 3, 1885",Chester A. Arthur
+Lucius Q. C. Lamar II,Mississippi,"March 6, 1885","January 10, 1888",Grover Cleveland
+William F. Vilas,Wisconsin,"January 16, 1888","March 6, 1889",Grover Cleveland
+John W. Noble,Missouri,"March 7, 1889","March 6, 1893",Benjamin Harrison
+Hoke Smith,Georgia,"March 6, 1893","September 1, 1896",Grover Cleveland
+David R. Francis,Missouri,"September 3, 1896","March 5, 1897",Grover Cleveland
+Cornelius N. Bliss,New York,"March 6, 1897","February 19, 1899",William McKinley
+Ethan A. Hitchcock,Missouri,"February 20, 1899",4-Mar-07,William McKinley
+Ethan A. Hitchcock,Missouri,"February 20, 1899",4-Mar-07,Theodore Roosevelt
+James R. Garfield,Ohio,5-Mar-07,4-Mar-09,Theodore Roosevelt
+Richard A. Ballinger,Washington,6-Mar-09,12-Mar-11,William Howard Taft
+Walter L. Fisher,Illinois,13-Mar-11,5-Mar-13,William Howard Taft
+Franklin K. Lane,California,6-Mar-13,29-Feb-20,Woodrow Wilson
+Alexander T. Vogelsang,California,29-Feb-20,13-Mar-20,Woodrow Wilson
+John B. Payne,Illinois,15-Mar-20,4-Mar-21,Woodrow Wilson
+Albert B. Fall,New Mexico,5-Mar-21,4-Mar-23,Warren G. Harding
+Hubert Work,Colorado,5-Mar-23,24-Jul-28,Warren G. Harding
+Hubert Work,Colorado,5-Mar-23,24-Jul-28,Calvin Coolidge
+Roy O. West,Illinois,25-Jul-28,4-Mar-29,Calvin Coolidge
+Ray Lyman Wilbur,California,5-Mar-29,4-Mar-33,Herbert Hoover
+Harold L. Ickes,Illinois,4-Mar-33,15-Feb-46,Franklin D. Roosevelt
+Harold L. Ickes,Illinois,4-Mar-33,15-Feb-46,Harry S. Truman
+Oscar L. Chapman,Colorado,15-Feb-46,18-Mar-46,Harry S. Truman
+Julius A. Krug,Wisconsin,18-Mar-46,1-Dec-49,Harry S. Truman
+Oscar L. Chapman,Colorado,1-Dec-49,20-Jan-53,Harry S. Truman
+Douglas McKay,Oregon,21-Jan-53,15-Apr-56,Dwight D. Eisenhower
+Clarence A. Davis,Nebraska,15-Apr-56,8-Jun-56,Dwight D. Eisenhower
+Fred A. Seaton,Nebraska,8-Jun-56,20-Jan-61,Dwight D. Eisenhower
+Stewart L. Udall,Arizona,21-Jan-61,20-Jan-69,John F. Kennedy
+Stewart L. Udall,Arizona,21-Jan-61,20-Jan-69,Lyndon B. Johnson
+Walter J. Hickel,Alaska,24-Jan-69,25-Nov-70,Richard Nixon
+"Fred J. Russell
+Acting",California,25-Nov-70,29-Jan-71,Richard Nixon
+Rogers C. B. Morton,Maryland,29-Jan-71,30-Apr-75,Richard Nixon
+Rogers C. B. Morton,Maryland,29-Jan-71,30-Apr-75,Gerald Ford
+"D. Kent Frizzell
+Acting",Kansas,30-Apr-75,12-Jun-75,Gerald Ford
+Stanley K. Hathaway,Wyoming,12-Jun-75,9-Oct-75,Gerald Ford
+D. Kent Frizzell,Kansas,9-Oct-75,17-Oct-75,Gerald Ford
+Thomas S. Kleppe,North Dakota,17-Oct-75,20-Jan-77,Gerald Ford
+Alfred G. Albert,,20-Jan-77,23-Jan-77,Jimmy Carter
+Cecil D. Andrus,Idaho,23-Jan-77,20-Jan-81,Jimmy Carter
+James G. Watt,Colorado,23-Jan-81,8-Nov-83,Ronald Reagan
+J. J. Simmons III,New Jersey,8-Nov-83,18-Nov-83,Ronald Reagan
+William P. Clark,California,18-Nov-83,7-Feb-85,Ronald Reagan
+Donald P. Hodel,Virginia,8-Feb-85,20-Jan-89,Ronald Reagan
+Earl E. Gjelde,Virginia,20-Jan-89,3-Feb-89,George H. W. Bush
+Manuel Lujan Jr.,New Mexico,3-Feb-89,20-Jan-93,George H. W. Bush
+Bruce E. Babbitt,Arizona,22-Jan-93,19-Jan-01,Bill Clinton
+Thomas N. Slonaker,Arizona,20-Jan-01,31-Jan-01,Bill Clinton
+Thomas N. Slonaker,Arizona,20-Jan-01,31-Jan-01,George W. Bush
+Gale A. Norton,Colorado,31-Jan-01,31-Mar-06,George W. Bush
+Lynn Scarlett,California,1-Apr-06,26-May-06,George W. Bush
+Dirk Kempthorne,Idaho,26-May-06,19-Jan-09,George W. Bush
+Lynn Scarlett,California,19-Jan-09,20-Jan-09,George W. Bush
+Lynn Scarlett,California,19-Jan-09,20-Jan-09,Barack Obama
+Ken Salazar,Colorado,20-Jan-09,12-Apr-13,Barack Obama
+Sally Jewell,Washington,12-Apr-13,20-Jan-17,Barack Obama
+Kevin Haugrud,,20-Jan-17,1-Mar-17,Donald Trump
+Ryan Zinke,Montana,1-Mar-17,2-Jan-19,Donald Trump
+David Bernhardt,Colorado,2-Jan-19,11-Apr-19,Donald Trump
+David Bernhardt,Colorado,11-Apr-19,20-Jan-21,Donald Trump
+Scott de la Vega,New York,20-Jan-21,16-Mar-21,Joe Biden
+Deb Haaland,New Mexico,16-Mar-21,Incumbent,Joe Biden
