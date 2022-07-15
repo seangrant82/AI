@@ -9,6 +9,13 @@ Feel free to comment, fork, etc.
 I have organized it into the follow structure:
 
 ```
+DataScience
+│
+└───Visualization
+│   │  Notebook used visualization of COVID data using a chloropleth map
+GIS
+│
+│   │  Notebooks,data used visualization and analysis of GIS data
 Kaggle
 │
 └───Quora
@@ -23,4 +30,8 @@ NLP
 └───Sentiment Analysis
     │   Notebook using NLTK VADER 
     │   Notebook using Flair 
+graphs
+│
+└───politics
+    │   data ans scripts for politics graph used for GDS learning
 ```
