@@ -33,5 +33,5 @@ NLP
 graphs
 │
 └───politics
-    │   data ans scripts for politics graph used for GDS learning
+    │   data and scripts for politics graph used for GDS learning
 ```
