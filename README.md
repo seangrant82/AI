@@ -36,4 +36,4 @@ graphs
     │   data and scripts for politics graph used for GDS learning
 ```
 
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&show_icons=true)
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seangrant82&theme=monokai&show_icons=true)
