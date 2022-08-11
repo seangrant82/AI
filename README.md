@@ -37,4 +37,4 @@ graphs
 ```
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seangrant82&theme=monokai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seangrant82&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seangrant82&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
