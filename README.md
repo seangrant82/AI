@@ -35,3 +35,4 @@ graphs
 └───politics
     │   data and scripts for politics graph used for GDS learning
 ```
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seangrant82)](https://github.com/anuraghazra/github-readme-stats)
