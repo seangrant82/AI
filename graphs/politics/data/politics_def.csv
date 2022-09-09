@@ -1,39 +1,39 @@
-name,party,,president
-James Forrestal,Democratic,,Harry S. Truman
-Louis A. Johnson,Democratic,,Harry S. Truman
-George C. Marshall,Independent,,Harry S. Truman
-Robert A. Lovett,Republican,,Harry S. Truman
-Charles Erwin Wilson,Republican,,Dwight D. Eisenhower
-Neil H. McElroy,Republican,,Dwight D. Eisenhower
-Thomas S. Gates Jr.,Republican,,Dwight D. Eisenhower
-Robert McNamara,Republican,,John F. Kennedy
-Robert McNamara,Republican,,Lyndon B. Johnson
-Clark Clifford,Democratic,,Lyndon B. Johnson
-Melvin R. Laird,Republican,,Richard Nixon
-Elliot Richardson,Republican,,Richard Nixon
-Bill Clements,Republican,,Richard Nixon
-James R. Schlesinger,Republican,,Richard Nixon
-James R. Schlesinger,Republican,,Gerald Ford
-Donald Rumsfeld,Republican,,Gerald Ford
-Harold Brown,Independent,,Jimmy Carter
-Caspar Weinberger,Republican,,Ronald Reagan
-Frank Carlucci,Republican,,Ronald Reagan
-William Howard Taft IV,Republican,,George H. W. Bush
-Dick Cheney,Republican,,George H. W. Bush
-Leslie Aspin,Democratic,,Bill Clinton
-William Perry,Independent,,Bill Clinton
-William Cohen,Republican,,Bill Clinton
-Donald Rumsfeld,Republican,,George W. Bush
-Robert Gates,Republican,,George W. Bush
-Robert Gates,Republican,,Barack Obama
-Leon Panetta,Democratic,,Barack Obama
-Chuck Hagel,Republican,,Barack Obama
-Ash Carter,Democratic,,Barack Obama
-Jim Mattis,Independent,,Donald Trump
-Patrick M. Shanahan,Independent,,Donald Trump
-Mark Esper,Republican,,Donald Trump
-Richard V. Spencer,Republican,,Donald Trump
-Mark Esper,Republican,,Donald Trump
-Christopher C. Miller,Republican,,Donald Trump
-David Norquist,Republican,,Joe Biden
-Lloyd Austin,Independent,,Joe Biden
+name,party,president
+James Forrestal,Democratic,Harry S. Truman
+Louis A. Johnson,Democratic,Harry S. Truman
+George C. Marshall,Independent,Harry S. Truman
+Robert A. Lovett,Republican,Harry S. Truman
+Charles Erwin Wilson,Republican,Dwight D. Eisenhower
+Neil H. McElroy,Republican,Dwight D. Eisenhower
+Thomas S. Gates Jr.,Republican,Dwight D. Eisenhower
+Robert McNamara,Republican,John F. Kennedy
+Robert McNamara,Republican,Lyndon B. Johnson
+Clark Clifford,Democratic,Lyndon B. Johnson
+Melvin R. Laird,Republican,Richard Nixon
+Elliot Richardson,Republican,Richard Nixon
+Bill Clements,Republican,Richard Nixon
+James R. Schlesinger,Republican,Richard Nixon
+James R. Schlesinger,Republican,Gerald Ford
+Donald Rumsfeld,Republican,Gerald Ford
+Harold Brown,Independent,Jimmy Carter
+Caspar Weinberger,Republican,Ronald Reagan
+Frank Carlucci,Republican,Ronald Reagan
+William Howard Taft IV,Republican,George H. W. Bush
+Dick Cheney,Republican,George H. W. Bush
+Leslie Aspin,Democratic,Bill Clinton
+William Perry,Independent,Bill Clinton
+William Cohen,Republican,Bill Clinton
+Donald Rumsfeld,Republican,George W. Bush
+Robert Gates,Republican,George W. Bush
+Robert Gates,Republican,Barack Obama
+Leon Panetta,Democratic,Barack Obama
+Chuck Hagel,Republican,Barack Obama
+Ash Carter,Democratic,Barack Obama
+Jim Mattis,Independent,Donald Trump
+Patrick M. Shanahan,Independent,Donald Trump
+Mark Esper,Republican,Donald Trump
+Richard V. Spencer,Republican,Donald Trump
+Mark Esper,Republican,Donald Trump
+Christopher C. Miller,Republican,Donald Trump
+David Norquist,Republican,Joe Biden
+Lloyd Austin,Independent,Joe Biden
