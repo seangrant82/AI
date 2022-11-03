@@ -1,129 +1,129 @@
-﻿name,Prior experience,State of residence,Took office,Left office,president
-Edmund Randolph,"Lawyer, 7th Governor of Virginia",Virginia,"September 26, 1789","January 26, 1794",George Washington
-William Bradford,"Lawyer, judge, Attorney General of Pennsylvania",Pennsylvania,"January 27, 1794","August 23, 1795",George Washington
-Charles Lee,"Lawyer, Acting United States Secretary of State",Virginia,"December 10, 1795","February 19, 1801",George Washington
-Charles Lee,"Lawyer, Acting United States Secretary of State",Virginia,"December 10, 1795","February 19, 1801",John Adams
-Levi Lincoln Sr.,"Lawyer, Acting United States Secretary of State,7th Lieutenant Governor of Massachusetts,Member of the U.S. House of Representatives from Massachusetts's 4th district",Massachusetts,"March 5, 1801","March 2, 1805",Thomas Jefferson
-John Breckinridge,"Lawyer, United States Senator from Kentucky,Speaker of the Kentucky House of Representatives,Attorney General of Kentucky",Kentucky,"August 7, 1805","December 14, 1806",Thomas Jefferson
-Caesar Augustus Rodney,"Lawyer, Member of the U.S. House of Representatives from Delaware's at-large district,Member of Delaware General Assembly",Delaware,"January 20, 1807","December 10, 1811",Thomas Jefferson
-Caesar Augustus Rodney,"Lawyer, Member of the U.S. House of Representatives from Delaware's at-large district,Member of Delaware General Assembly",Delaware,"January 20, 1807","December 10, 1811",James Madison
-William Pinkney,"Lawyer, United States Minister to the United Kingdom,3rd Attorney General of Maryland,Mayor of Annapolis,Member of the U.S. House of Representatives from Maryland's 3rd district",Maryland,"December 11, 1811","February 9, 1814",James Madison
-Richard Rush,"Lawyer, Attorney General of Pennsylvania",Pennsylvania,"February 10, 1814","November 12, 1817",James Madison
-William Wirt,"Lawyer, United States Attorney for the District of Virginia,Member of the Virginia House of Delegates from Richmond City6th Clerk of the Virginia House of Delegates",Virginia,"November 13, 1817","March 4, 1829",James Monroe
-William Wirt,"Lawyer, United States Attorney for the District of Virginia,Member of the Virginia House of Delegates from Richmond City6th Clerk of the Virginia House of Delegates",Virginia,"November 13, 1817","March 4, 1829",John Quincy Adams
-John Macpherson Berrien,"Lawyer, Judge of the Eastern judicial circuit of Georgia,United States Senator from Georgia",Georgia,"March 9, 1829","July 19, 1831",Andrew Jackson
-Roger B. Taney,"Lawyer, Acting United States Secretary of War,Attorney General of Maryland",Maryland,"July 20, 1831","November 14, 1833",Andrew Jackson
-Benjamin Franklin Butler,"Lawyer, Member of the New York State Assembly from Albany County,District Attorney of Albany County",New York,"November 15, 1833","July 4, 1838",Andrew Jackson
-Benjamin Franklin Butler,"Lawyer, Member of the New York State Assembly from Albany County,District Attorney of Albany County",New York,"November 15, 1833","July 4, 1838",Martin Van Buren
-Felix Grundy,"Lawyer, United States Senator from Tennessee,Member of the U.S. House of Representatives from Tennessee's 3rd district and 5th district,Chief Justice of the Kentucky Court of Appeals",Tennessee,"July 5, 1838","January 10, 1840",Martin Van Buren
-Henry D. Gilpin,"Lawyer, Solicitor of the United States Treasury,U.S. Attorney for the Eastern District of Pennsylvania",Pennsylvania,"January 11, 1840","March 4, 1841",Martin Van Buren
-John J. Crittenden,"Lawyer, 22nd Secretary of State of Kentucky,United States Senator from Kentucky",Kentucky,"March 5, 1841","September 12, 1841",William Henry Harrison
-John J. Crittenden,"Lawyer, 22nd Secretary of State of Kentucky,United States Senator from Kentucky",Kentucky,"March 5, 1841","September 12, 1841",John Tyler
-Hugh S. Legaré,"Lawyer, Member of the U.S. House of Representatives from South Carolina's 1st districtActing United States Minister to Belgium,7th Attorney General of South Carolina",South Carolina,"September 13, 1841","June 20, 1843",John Tyler
-John Nelson,"Lawyer, United States Chargé d'Affaires to the Kingdom of the Two Sicilies,Member of the U.S. House of Representatives from Maryland's 4th district",Maryland,"July 1, 1843","March 4, 1845",John Tyler
-John Y. Mason,"Lawyer, 16th United States Secretary of the NavyJudge of the United States District Court for the Eastern District of Virginia,Member of the U.S. House of Representatives from Virginia's 2nd district",Virginia,"March 5, 1845","October 16, 1846",James K. Polk
-Nathan Clifford,"Lawyer, Member of the U.S. House of Representatives from Maine's 1st district,Attorney General of Maine,Member of the Maine House of Representatives,",Maine,"October 17, 1846","March 17, 1848",James K. Polk
-Isaac Toucey,"Lawyer, 33rd Governor of Connecticut,Member of the U.S. House of Representatives from Connecticut's at-large district and 1st district",Connecticut,"June 21, 1848","March 4, 1849",James K. Polk
-Reverdy Johnson,"Lawyer, United States Senator from Maryland",Maryland,"March 8, 1849","July 21, 1850",Zachary Taylor
+name,State of residence,Took office,Left office,president
+Edmund Randolph,Virginia,"September 26, 1789","January 26, 1794",George Washington
+William Bradford,Pennsylvania,"January 27, 1794","August 23, 1795",George Washington
+Charles Lee,Virginia,"December 10, 1795","February 19, 1801",George Washington
+Charles Lee,Virginia,"December 10, 1795","February 19, 1801",John Adams
+Levi Lincoln Sr.,Massachusetts,"March 5, 1801","March 2, 1805",Thomas Jefferson
+John Breckinridge,Kentucky,"August 7, 1805","December 14, 1806",Thomas Jefferson
+Caesar Augustus Rodney,Delaware,"January 20, 1807","December 10, 1811",Thomas Jefferson
+Caesar Augustus Rodney,Delaware,"January 20, 1807","December 10, 1811",James Madison
+William Pinkney,Maryland,"December 11, 1811","February 9, 1814",James Madison
+Richard Rush,Pennsylvania,"February 10, 1814","November 12, 1817",James Madison
+William Wirt,Virginia,"November 13, 1817","March 4, 1829",James Monroe
+William Wirt,Virginia,"November 13, 1817","March 4, 1829",John Quincy Adams
+John Macpherson Berrien,Georgia,"March 9, 1829","July 19, 1831",Andrew Jackson
+Roger B. Taney,Maryland,"July 20, 1831","November 14, 1833",Andrew Jackson
+Benjamin Franklin Butler,New York,"November 15, 1833","July 4, 1838",Andrew Jackson
+Benjamin Franklin Butler,New York,"November 15, 1833","July 4, 1838",Martin Van Buren
+Felix Grundy,Tennessee,"July 5, 1838","January 10, 1840",Martin Van Buren
+Henry D. Gilpin,Pennsylvania,"January 11, 1840","March 4, 1841",Martin Van Buren
+John J. Crittenden,Kentucky,"March 5, 1841","September 12, 1841",William Henry Harrison
+John J. Crittenden,Kentucky,"March 5, 1841","September 12, 1841",John Tyler
+Hugh S. Legaré,South Carolina,"September 13, 1841","June 20, 1843",John Tyler
+John Nelson,Maryland,"July 1, 1843","March 4, 1845",John Tyler
+John Y. Mason,Virginia,"March 5, 1845","October 16, 1846",James K. Polk
+Nathan Clifford,Maine,"October 17, 1846","March 17, 1848",James K. Polk
+Isaac Toucey,Connecticut,"June 21, 1848","March 4, 1849",James K. Polk
+Reverdy Johnson,Maryland,"March 8, 1849","July 21, 1850",Zachary Taylor
 "John J. Crittenden
-2nd term","Lawyer, 15th United States Attorney General22nd Secretary of State of Kentucky,United States Senator from Kentucky",Kentucky,"July 22, 1850","March 4, 1853",Millard Fillmore
-Caleb Cushing,"Lawyer, United States Minister to China,Member of the U.S. House of Representatives from Massachusetts's 3rd district",Massachusetts,"March 7, 1853","March 4, 1857",Franklin Pierce
-Jeremiah S. Black,"Lawyer, Justice of the Pennsylvania Supreme Court",Pennsylvania,"March 6, 1857","December 16, 1860",James Buchanan
-Edwin Stanton,Lawyer,Pennsylvania,"December 20, 1860","March 4, 1861",James Buchanan
-Edward Bates,"Lawyer, Member of the U.S. House of Representatives from Missouri's at-large district,Attorney General of Missouri",Missouri,"March 5, 1861","November 24, 1864",Abraham Lincoln
-James Speed,"Lawyer, Member of the Kentucky House of Representatives",Kentucky,"December 2, 1864","July 22, 1866",Abraham Lincoln
-James Speed,"Lawyer, Member of the Kentucky House of Representatives",Kentucky,"December 2, 1864","July 22, 1866",Andrew Johnson
-Henry Stanbery,"Lawyer, Attorney General of Ohio",Ohio,"July 23, 1866","July 16, 1868",Andrew Johnson
-William M. Evarts,Lawyer,New York,"July 17, 1868","March 4, 1869",Andrew Johnson
-Ebenezer R. Hoar,"Lawyer, judge",Massachusetts,"March 5, 1869","November 22, 1870",Ulysses S. Grant
-Amos T. Akerman,"Lawyer, teacher",Georgia,"November 23, 1870","December 13, 1871",Ulysses S. Grant
-George Henry Williams,United States Senator from Oregon 3rd Chief Justice of Oregon Supreme Court,Oregon,"December 14, 1871","April 25, 1875",Ulysses S. Grant
-Edwards Pierrepont,Attorney U.S. Attorney's Office for the Southern District of New York,New York,"April 26, 1875","May 21, 1876",Ulysses S. Grant
-Alphonso Taft,31st United States Secretary of War,Ohio,"May 22, 1876","March 4, 1877",Ulysses S. Grant
-Charles Devens,,Massachusetts,"March 12, 1877","March 4, 1881",Rutherford B. Hayes
-Wayne MacVeagh,"Lawyer, United States Ambassador to the Ottoman Empire",Pennsylvania,"March 5, 1881","December 15, 1881",James A. Garfield
-Wayne MacVeagh,"Lawyer, United States Ambassador to the Ottoman Empire",Pennsylvania,"March 5, 1881","December 15, 1881",Chester A. Arthur
-Benjamin H. Brewster,Attorney General of Pennsylvania,Pennsylvania,"December 16, 1881","March 4, 1885",Chester A. Arthur
-Augustus Garland,"Lawyer, United States Senator from Arkansas,11th Governor of Arkansas",Arkansas,"March 6, 1885","March 4, 1889",Grover Cleveland
-William H. H. Miller,Lawyer,Indiana,"March 7, 1889","March 4, 1893",Benjamin Harrison
-Richard Olney,Lawyer,Massachusetts,"March 6, 1893","April 7, 1895",Grover Cleveland
-Judson Harmon,Lawyer,Ohio,"April 8, 1895","March 4, 1897",Grover Cleveland
-Joseph McKenna,"Judge of the United States Court of Appeals for the Ninth Circuit, Member of the U.S. House of Representatives from California's 3rd district",California,"March 5, 1897","January 25, 1898",William McKinley
-John W. Griggs,"Lawyer, 28th Governor of New Jersey",New Jersey,"January 25, 1898",29-Mar-01,William McKinley
-Philander C. Knox,"Lawyer, Assistant United States Attorney for the Western District of Pennsylvania (1876–1877),President of the Pennsylvania Bar Association",Pennsylvania,5-Apr-01,30-Jun-04,William McKinley
-Philander C. Knox,"Lawyer, Assistant United States Attorney for the Western District of Pennsylvania (1876–1877),President of the Pennsylvania Bar Association",Pennsylvania,5-Apr-01,30-Jun-04,Theodore Roosevelt
-William Henry Moody,"35th United States Secretary of the Navy, Member of the U.S. House of Representatives from Massachusetts's 6th district",Massachusetts,1-Jul-04,17-Dec-06,Theodore Roosevelt
-Charles Bonaparte,"Lawyer, 37th United States Secretary of the Navy",Maryland,17-Dec-06,4-Mar-09,Theodore Roosevelt
-George W. Wickersham,Lawyer,New York,4-Mar-09,4-Mar-13,William Howard Taft
-James C. McReynolds,Lawyer,Tennessee,5-Mar-13,29-Aug-14,Woodrow Wilson
-Thomas Watt Gregory,Lawyer,Texas,29-Aug-14,4-Mar-19,Woodrow Wilson
-A. Mitchell Palmer,"Attorney, Member of the U.S. House of Representativesfrom Pennsylvania's 26th district",Pennsylvania,5-Mar-19,4-Mar-21,Woodrow Wilson
-Harry M. Daugherty,Lawyer Member of the Ohio House of Representatives (1889−1893)Republican Political Operative from Ohio,Ohio,4-Mar-21,6-Apr-24,Warren G. Harding
-Harry M. Daugherty,Lawyer Member of the Ohio House of Representatives (1889−1893)Republican Political Operative from Ohio,Ohio,4-Mar-21,6-Apr-24,Calvin Coolidge
-Harlan F. Stone,Lawyer,New York,7-Apr-24,1-Mar-25,Calvin Coolidge
-John G. Sargent,"Lawyer, Attorney General of Vermont",Vermont,7-Mar-25,4-Mar-29,Calvin Coolidge
-William D. Mitchell,"Attorney, 18th United States Solicitor General",Minnesota,4-Mar-29,4-Mar-33,Herbert Hoover
-Homer Stille Cummings,,Connecticut,4-Mar-33,1-Jan-39,Franklin D. Roosevelt
-Frank Murphy,,Michigan,2-Jan-39,18-Jan-40,Franklin D. Roosevelt
-Robert H. Jackson,,New York,18-Jan-40,25-Aug-41,Franklin D. Roosevelt
-Francis Biddle,,Pennsylvania,26-Aug-41,26-Jun-45,Franklin D. Roosevelt
-Francis Biddle,,Pennsylvania,26-Aug-41,26-Jun-45,Harry S. Truman
-Tom C. Clark,,Texas,27-Jun-45,26-Jul-49,Harry S. Truman
-J. Howard McGrath,,Rhode Island,27-Jul-49,3-Apr-52,Harry S. Truman
-James P. McGranery,,Pennsylvania,4-Apr-52,20-Jan-53,Harry S. Truman
-Herbert Brownell Jr.,,New York,21-Jan-53,23-Oct-57,Dwight D. Eisenhower
-William P. Rogers,,New York,23-Oct-57,20-Jan-61,Dwight D. Eisenhower
-Robert F. Kennedy,,Massachusetts,20-Jan-61,3-Sep-64,John F. Kennedy
-Robert F. Kennedy,,Massachusetts,20-Jan-61,3-Sep-64,Lyndon B. Johnson
-Nicholas Katzenbach,,Illinois,4-Sep-64,28-Jan-65,Lyndon B. Johnson
-Nicholas Katzenbach,,Illinois,28-Jan-65,28-Nov-66,Lyndon B. Johnson
-Ramsey Clark,,Texas,28-Nov-66,10-Mar-67,Lyndon B. Johnson
-Ramsey Clark,,Texas,10-Mar-67,20-Jan-69,Lyndon B. Johnson
-John N. Mitchell,,New York,20-Jan-69,15-Feb-72,Richard Nixon
-Richard Kleindienst,,Arizona,15-Feb-72,30-Apr-73,Richard Nixon
-Elliot Richardson,,Massachusetts,25-May-73,20-Oct-73,Richard Nixon
+2nd term",Kentucky,"July 22, 1850","March 4, 1853",Millard Fillmore
+Caleb Cushing,Massachusetts,"March 7, 1853","March 4, 1857",Franklin Pierce
+Jeremiah S. Black,Pennsylvania,"March 6, 1857","December 16, 1860",James Buchanan
+Edwin Stanton,Pennsylvania,"December 20, 1860","March 4, 1861",James Buchanan
+Edward Bates,Missouri,"March 5, 1861","November 24, 1864",Abraham Lincoln
+James Speed,Kentucky,"December 2, 1864","July 22, 1866",Abraham Lincoln
+James Speed,Kentucky,"December 2, 1864","July 22, 1866",Andrew Johnson
+Henry Stanbery,Ohio,"July 23, 1866","July 16, 1868",Andrew Johnson
+William M. Evarts,New York,"July 17, 1868","March 4, 1869",Andrew Johnson
+Ebenezer R. Hoar,Massachusetts,"March 5, 1869","November 22, 1870",Ulysses S. Grant
+Amos T. Akerman,Georgia,"November 23, 1870","December 13, 1871",Ulysses S. Grant
+George Henry Williams,Oregon,"December 14, 1871","April 25, 1875",Ulysses S. Grant
+Edwards Pierrepont,New York,"April 26, 1875","May 21, 1876",Ulysses S. Grant
+Alphonso Taft,Ohio,"May 22, 1876","March 4, 1877",Ulysses S. Grant
+Charles Devens,Massachusetts,"March 12, 1877","March 4, 1881",Rutherford B. Hayes
+Wayne MacVeagh,Pennsylvania,"March 5, 1881","December 15, 1881",James A. Garfield
+Wayne MacVeagh,Pennsylvania,"March 5, 1881","December 15, 1881",Chester A. Arthur
+Benjamin H. Brewster,Pennsylvania,"December 16, 1881","March 4, 1885",Chester A. Arthur
+Augustus Garland,Arkansas,"March 6, 1885","March 4, 1889",Grover Cleveland
+William H. H. Miller,Indiana,"March 7, 1889","March 4, 1893",Benjamin Harrison
+Richard Olney,Massachusetts,"March 6, 1893","April 7, 1895",Grover Cleveland
+Judson Harmon,Ohio,"April 8, 1895","March 4, 1897",Grover Cleveland
+Joseph McKenna,California,"March 5, 1897","January 25, 1898",William McKinley
+John W. Griggs,New Jersey,"January 25, 1898",29-Mar-01,William McKinley
+Philander C. Knox,Pennsylvania,5-Apr-01,30-Jun-04,William McKinley
+Philander C. Knox,Pennsylvania,5-Apr-01,30-Jun-04,Theodore Roosevelt
+William Henry Moody,Massachusetts,1-Jul-04,17-Dec-06,Theodore Roosevelt
+Charles Bonaparte,Maryland,17-Dec-06,4-Mar-09,Theodore Roosevelt
+George W. Wickersham,New York,4-Mar-09,4-Mar-13,William Howard Taft
+James C. McReynolds,Tennessee,5-Mar-13,29-Aug-14,Woodrow Wilson
+Thomas Watt Gregory,Texas,29-Aug-14,4-Mar-19,Woodrow Wilson
+A. Mitchell Palmer,Pennsylvania,5-Mar-19,4-Mar-21,Woodrow Wilson
+Harry M. Daugherty,Ohio,4-Mar-21,6-Apr-24,Warren G. Harding
+Harry M. Daugherty,Ohio,4-Mar-21,6-Apr-24,Calvin Coolidge
+Harlan F. Stone,New York,7-Apr-24,1-Mar-25,Calvin Coolidge
+John G. Sargent,Vermont,7-Mar-25,4-Mar-29,Calvin Coolidge
+William D. Mitchell,Minnesota,4-Mar-29,4-Mar-33,Herbert Hoover
+Homer Stille Cummings,Connecticut,4-Mar-33,1-Jan-39,Franklin D. Roosevelt
+Frank Murphy,Michigan,2-Jan-39,18-Jan-40,Franklin D. Roosevelt
+Robert H. Jackson,New York,18-Jan-40,25-Aug-41,Franklin D. Roosevelt
+Francis Biddle,Pennsylvania,26-Aug-41,26-Jun-45,Franklin D. Roosevelt
+Francis Biddle,Pennsylvania,26-Aug-41,26-Jun-45,Harry S. Truman
+Tom C. Clark,Texas,27-Jun-45,26-Jul-49,Harry S. Truman
+J. Howard McGrath,Rhode Island,27-Jul-49,3-Apr-52,Harry S. Truman
+James P. McGranery,Pennsylvania,4-Apr-52,20-Jan-53,Harry S. Truman
+Herbert Brownell Jr.,New York,21-Jan-53,23-Oct-57,Dwight D. Eisenhower
+William P. Rogers,New York,23-Oct-57,20-Jan-61,Dwight D. Eisenhower
+Robert F. Kennedy,Massachusetts,20-Jan-61,3-Sep-64,John F. Kennedy
+Robert F. Kennedy,Massachusetts,20-Jan-61,3-Sep-64,Lyndon B. Johnson
+Nicholas Katzenbach,Illinois,4-Sep-64,28-Jan-65,Lyndon B. Johnson
+Nicholas Katzenbach,Illinois,28-Jan-65,28-Nov-66,Lyndon B. Johnson
+Ramsey Clark,Texas,28-Nov-66,10-Mar-67,Lyndon B. Johnson
+Ramsey Clark,Texas,10-Mar-67,20-Jan-69,Lyndon B. Johnson
+John N. Mitchell,New York,20-Jan-69,15-Feb-72,Richard Nixon
+Richard Kleindienst,Arizona,15-Feb-72,30-Apr-73,Richard Nixon
+Elliot Richardson,Massachusetts,25-May-73,20-Oct-73,Richard Nixon
 "Robert Bork
-Acting",,Pennsylvania,20-Oct-73,4-Jan-74,Richard Nixon
-William B. Saxbe,U.S. Senator from Ohio,Ohio,4-Jan-74,2-Feb-75,Richard Nixon
-William B. Saxbe,,Ohio,4-Jan-74,2-Feb-75,Gerald Ford
-Edward H. Levi,,Illinois,2-Feb-75,20-Jan-77,Gerald Ford
+Acting",Pennsylvania,20-Oct-73,4-Jan-74,Richard Nixon
+William B. Saxbe,Ohio,4-Jan-74,2-Feb-75,Richard Nixon
+William B. Saxbe,Ohio,4-Jan-74,2-Feb-75,Gerald Ford
+Edward H. Levi,Illinois,2-Feb-75,20-Jan-77,Gerald Ford
 "Dick Thornburgh
-Acting",,Pennsylvania,20-Jan-77,26-Jan-77,Jimmy Carter
-Griffin Bell,,Georgia,26-Jan-77,16-Aug-79,Jimmy Carter
-Benjamin Civiletti,,Maryland,16-Aug-79,19-Jan-81,Jimmy Carter
-William French Smith,,California,23-Jan-81,25-Feb-85,Ronald Reagan
-Edwin Meese,,California,25-Feb-85,12-Aug-88,Ronald Reagan
-Dick Thornburgh,Acting United States Attorney General (1977)Governor of Pennsylvania (1979–1987),Pennsylvania,12-Aug-88,15-Aug-91,Ronald Reagan
-Dick Thornburgh,,Pennsylvania,12-Aug-88,15-Aug-91,George H. W. Bush
-William Barr,United States Deputy Attorney General (1990–1991) United States Assistant Attorney General for the Office of Legal Counsel (1989–1990),Virginia,16-Aug-91,26-Nov-91,George H. W. Bush
-William Barr,United States Deputy Attorney General (1990–1991) United States Assistant Attorney General for the Office of Legal Counsel (1989–1990),Virginia,26-Nov-91,20-Jan-93,George H. W. Bush
+Acting",Pennsylvania,20-Jan-77,26-Jan-77,Jimmy Carter
+Griffin Bell,Georgia,26-Jan-77,16-Aug-79,Jimmy Carter
+Benjamin Civiletti,Maryland,16-Aug-79,19-Jan-81,Jimmy Carter
+William French Smith,California,23-Jan-81,25-Feb-85,Ronald Reagan
+Edwin Meese,California,25-Feb-85,12-Aug-88,Ronald Reagan
+Dick Thornburgh,Pennsylvania,12-Aug-88,15-Aug-91,Ronald Reagan
+Dick Thornburgh,Pennsylvania,12-Aug-88,15-Aug-91,George H. W. Bush
+William Barr,Virginia,16-Aug-91,26-Nov-91,George H. W. Bush
+William Barr,Virginia,26-Nov-91,20-Jan-93,George H. W. Bush
 "Stuart M. Gerson
-Acting",,"Washington, D.C.",20-Jan-93,12-Mar-93,Bill Clinton
-Janet Reno,,Florida,12-Mar-93,20-Jan-01,Bill Clinton
+Acting","Washington, D.C.",20-Jan-93,12-Mar-93,Bill Clinton
+Janet Reno,Florida,12-Mar-93,20-Jan-01,Bill Clinton
 "Eric Holder
-Acting",United States Deputy Attorney General (1997–2001) United States Attorney for the District of Columbia (1993–1997)Judge of the Superior Court of the District of Columbia (1988–1993),"Washington, D.C.",20-Jan-01,2-Feb-01,George W. Bush
-John Ashcroft,,Missouri,2-Feb-01,3-Feb-05,George W. Bush
-Alberto Gonzales,,Texas,3-Feb-05,17-Sep-07,George W. Bush
+Acting","Washington, D.C.",20-Jan-01,2-Feb-01,George W. Bush
+John Ashcroft,Missouri,2-Feb-01,3-Feb-05,George W. Bush
+Alberto Gonzales,Texas,3-Feb-05,17-Sep-07,George W. Bush
 "Paul Clement
-Acting",,"Washington, D.C.",17-Sep-07,18-Sep-07,George W. Bush
+Acting","Washington, D.C.",17-Sep-07,18-Sep-07,George W. Bush
 "Peter Keisler
-Acting",,"Washington, D.C.",18-Sep-07,9-Nov-07,George W. Bush
-Michael Mukasey,,New York,9-Nov-07,20-Jan-09,George W. Bush
+Acting","Washington, D.C.",18-Sep-07,9-Nov-07,George W. Bush
+Michael Mukasey,New York,9-Nov-07,20-Jan-09,George W. Bush
 "Mark Filip
-Acting",,Illinois,20-Jan-09,3-Feb-09,Barack Obama
-Eric Holder,Acting United States Attorney General (2001) United States Deputy Attorney General (1997–2001)United States Attorney for the District of Columbia (1993–1997)Judge of the Superior Court of the District of Columbia (1988–1993),"Washington, D.C.",3-Feb-09,27-Apr-15,Barack Obama
-Loretta Lynch,"United States Attorney for the Eastern District of New York (1999–2001, 2010–2015) Member of the Board of the Federal Reserve Bank of New York (2003–2005)",New York,27-Apr-15,20-Jan-17,Barack Obama
+Acting",Illinois,20-Jan-09,3-Feb-09,Barack Obama
+Eric Holder,"Washington, D.C.",3-Feb-09,27-Apr-15,Barack Obama
+Loretta Lynch,New York,27-Apr-15,20-Jan-17,Barack Obama
 "Sally Yates
-Acting",,Georgia,20-Jan-17,30-Jan-17,Donald Trump
+Acting",Georgia,20-Jan-17,30-Jan-17,Donald Trump
 "Dana Boente
-Acting",,Virginia,30-Jan-17,9-Feb-17,Donald Trump
-Jeff Sessions,United States Senator from Alabama (1997–2017) Attorney General of Alabama (1995–1997)United States Attorney for the Southern District of Alabama (1981–1993),Alabama,9-Feb-17,7-Nov-18,Donald Trump
+Acting",Virginia,30-Jan-17,9-Feb-17,Donald Trump
+Jeff Sessions,Alabama,9-Feb-17,7-Nov-18,Donald Trump
 "Matthew Whitaker
-Acting",,Iowa,7-Nov-18,14-Feb-19,Donald Trump
+Acting",Iowa,7-Nov-18,14-Feb-19,Donald Trump
 "William Barr
-2nd term",77th United States Attorney General (1991–1993) United States Deputy Attorney General (1990–1991)United States Assistant Attorney General for the Office of Legal Counsel (1989–1990),Virginia,14-Feb-19,23-Dec-20,Donald Trump
+2nd term",Virginia,14-Feb-19,23-Dec-20,Donald Trump
 "Jeffrey A. Rosen
-Acting",,Massachusetts,24-Dec-20,20-Jan-21,Donald Trump
+Acting",Massachusetts,24-Dec-20,20-Jan-21,Donald Trump
 "Monty Wilkinson
-Acting",,"Washington, D.C.",20-Jan-21,11-Mar-21,Joe Biden
-Merrick Garland,Chief Judge of the United States Court of Appeals for the District of Columbia Circuit (2013–2020) Nominee for Associate Justice of the Supreme Court (2016)Judge of the United States Court of Appeals for the District of Columbia Circuit (1997–2021),Maryland,11-Mar-21,Incumbent,Joe Biden
+Acting","Washington, D.C.",20-Jan-21,11-Mar-21,Joe Biden
+Merrick Garland,Maryland,11-Mar-21,Incumbent,Joe Biden
