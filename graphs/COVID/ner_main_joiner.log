@@ -1,0 +1,119 @@
+2020-04-28 23:07:01|   0.1|  0.1|INFORM|FME 2019.1.2.0 (20190829 - Build 19630 - WIN64)
+2020-04-28 23:07:01|   0.1|  0.0|INFORM|FME_HOME is 'C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\'
+2020-04-28 23:07:01|   0.1|  0.0|INFORM|Data Interoperability (node locked-crc)
+2020-04-28 23:07:01|   0.1|  0.0|INFORM|Permanent License.
+2020-04-28 23:07:01|   0.1|  0.0|INFORM|Machine host name is: MOBILEWS
+2020-04-28 23:07:01|   0.1|  0.0|INFORM|START - ProcessID: 11088, peak process memory usage: 60864 kB, current process memory usage: 60864 kB
+2020-04-28 23:07:01|   0.1|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\fme.exe' `D:/GraphDB/corona/NLP\wb-xlate-1588129616935_23516' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{4da4fdf6-db9a-4a0a-bdcc-f21e3c3eb83b}'
+2020-04-28 23:07:01|   0.1|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\Sean\AppData\Roaming\Safe Software\FME\'
+2020-04-28 23:07:01|   0.3|  0.1|INFORM|Shared folders for formats are : C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\datasources;C:\Users\Sean\Documents\FME\Formats
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Shared folders for transformers are : C:\Users\Sean\AppData\Roaming\Safe Software\FME\Packages\19630-win64\transformers;C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\transformers
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\Sean\Documents\FME\CoordinateSystems
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\Sean\Documents\FME\CoordinateSystemExceptions
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\Sean\Documents\FME\CoordinateSystemGridOverrides
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\Sean\Documents\FME\CsmapTransformationExceptions
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\Sean\Documents\FME\TransformerCategories
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: Current working folder is `D:\GraphDB\corona\NLP'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\Sean\AppData\Local\Temp', set from environment variable `TEMP'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: FME_BASE is 'yes'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'D:\GraphDB\corona\NLP/'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'ner_main_joiner.fmw'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2019.1.2.0'
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|System Status: 282.69 GB of disk space available in the FME temporary folder (C:\Users\Sean\AppData\Local\Temp)
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|System Status: 128.00 TB of virtual memory available
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 18362)
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Platform: WIN64
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Locale: en_US
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Code Page: 1252  (ANSI - Latin I)
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: Process limit is 31.95 GB of physical memory
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 95.85 GB of virtual memory
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 71.89 GB of virtual memory
+2020-04-28 23:07:01|   0.3|  0.1|INFORM|Creating writer for format: 
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Creating reader for format: 
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2020-04-28 23:07:01|   0.3|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2020-04-28 23:07:01|   0.8|  0.5|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\plugins/LogCount_func.dll'
+2020-04-28 23:07:01|   0.8|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20190621)
+2020-04-28 23:07:01|   0.9|  0.0|INFORM|Loaded module 'DuplicateRemoverFactory' from file 'C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\plugins/DuplicateRemoverFactory.dll'
+2020-04-28 23:07:01|   0.9|  0.0|INFORM|FME API version of module 'DuplicateRemoverFactory' matches current internal version (3.8 20190621)
+2020-04-28 23:07:01|   0.9|  0.1|INFORM|Emptying factory pipeline
+2020-04-28 23:07:01|   0.9|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2020-04-28 23:07:01|   0.9|  0.0|STATS |Unexpected Input Remover Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-04-28 23:07:01|   0.9|  0.0|STATS |CSV (CSV2_2) Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-04-28 23:07:01|   0.9|  0.0|STATS |CSV (CSV2_1) Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-04-28 23:07:01|   0.9|  0.0|STATS |Restoring 83505 feature(s) from FME feature store file `C:\Users\Sean\AppData\Local\Temp\wb-cache-ner_main_joiner-sKpYWu\Main_Tester_2 -1 33 fo 1 FAILED  1  9dc25b402cd2ac02cce7bcaad0f275fabd5fdb7b.ffs'
+2020-04-28 23:07:01|   0.9|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\Sean\AppData\Local\Temp\wb-cache-ner_main_joiner-sKpYWu\Main_DuplicateFilter -1 36 fo 0 UNIQUE  0  d783f921bb64a4cd92dcebea93424818434c9800.ffsupdating'
+2020-04-28 23:07:02|   1.1|  0.1|INFORM|Creating writer for format: CSV (Comma Separated Value)
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CSV2'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|Loaded module 'CSV2' from file 'C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\plugins/CSV2.dll'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20190621)
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20190621)
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|Writer `CSV2_3' of type `CSV2' using group definition keyword `CSV2_3_DEF'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20190621)
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Directive '_EXTENSION' has the value 'csv'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Directive '_DELIMITER' has the value ','
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Directive '_ENCODING' has the value 'UTF-8'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Directive '_WRITE_BOM_FOR_UNICODE' has the value 'Yes'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Directive '_QUALIFY_FIELD_NAMES' has the value 'if_needed'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Directive '_QUALIFY_FIELD_VALUES' has the value 'if_needed'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Directive '_FIELD_QUALIFIER_CHARACTER' has the value '"'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Directive '_FIELD_QUALIFIER_ESCAPE_CHARACTER' has the value '"'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Directive '_ROW_TERMINATION' has the value 'System'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Directive '_WRITE_SCHEMA_FILE' has the value 'NO'
+2020-04-28 23:07:02|   1.1|  0.0|INFORM|CSV writer: Opening dataset 'D:\GraphDB\corona\NLP\ner_out_uuid_joined.csv'
+2020-04-28 23:07:02|   1.1|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\Sean\AppData\Local\Temp\wb-cache-ner_main_joiner-sKpYWu\Main_DuplicateFilter -1 36 fo 1 DUPLICATE  0  9a424fcc6a8e0317708da7c09458326b4a798b4e.ffsupdating'
+2020-04-28 23:07:06|   5.0|  3.8|INFORM|Tester_2_FAILED_-1_37_Player (RecorderFactory): Playing back feature 34000
+2020-04-28 23:07:11|   9.9|  5.0|INFORM|Tester_2_FAILED_-1_37_Player (RecorderFactory): Playing back feature 75500
+2020-04-28 23:07:11|  10.8|  0.8|INFORM|Tester_2_FAILED_-1_37_Player (RecorderFactory): Played back 83505 feature(s) from file `C:\Users\Sean\AppData\Local\Temp\wb-cache-ner_main_joiner-sKpYWu\Main_Tester_2 -1 33 fo 1 FAILED  1  9dc25b402cd2ac02cce7bcaad0f275fabd5fdb7b.ffs'
+2020-04-28 23:07:11|  10.8|  0.0|STATS |Stored 60137 feature(s) to FME feature store file `C:\Users\Sean\AppData\Local\Temp\wb-cache-ner_main_joiner-sKpYWu\Main_DuplicateFilter -1 36 fo 0 UNIQUE  0  d783f921bb64a4cd92dcebea93424818434c9800.ffsupdating'
+2020-04-28 23:07:11|  10.8|  0.0|INFORM|Saving spatial index into file 'C:\Users\Sean\AppData\Local\Temp\wb-cache-ner_main_joiner-sKpYWu\Main_DuplicateFilter -1 36 fo 0 UNIQUE  0  d783f921bb64a4cd92dcebea93424818434c9800.fsi'
+2020-04-28 23:07:11|  10.8|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\Sean\AppData\Local\Temp\wb-cache-ner_main_joiner-sKpYWu\Main_DuplicateFilter -1 36 fo 0 UNIQUE  0  d783f921bb64a4cd92dcebea93424818434c9800.fsi'
+2020-04-28 23:07:11|  10.8|  0.0|STATS |Stored 23368 feature(s) to FME feature store file `C:\Users\Sean\AppData\Local\Temp\wb-cache-ner_main_joiner-sKpYWu\Main_DuplicateFilter -1 36 fo 1 DUPLICATE  0  9a424fcc6a8e0317708da7c09458326b4a798b4e.ffsupdating'
+2020-04-28 23:07:11|  10.8|  0.0|INFORM|Saving spatial index into file 'C:\Users\Sean\AppData\Local\Temp\wb-cache-ner_main_joiner-sKpYWu\Main_DuplicateFilter -1 36 fo 1 DUPLICATE  0  9a424fcc6a8e0317708da7c09458326b4a798b4e.fsi'
+2020-04-28 23:07:11|  10.8|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\Sean\AppData\Local\Temp\wb-cache-ner_main_joiner-sKpYWu\Main_DuplicateFilter -1 36 fo 1 DUPLICATE  0  9a424fcc6a8e0317708da7c09458326b4a798b4e.fsi'
+2020-04-28 23:07:11|  10.8|  0.0|STATS |DuplicateFilter_UNIQUE Feature Counter -1 38 (TeeFactory): Cloned 60137 input feature(s) into 60137 output feature(s)
+2020-04-28 23:07:11|  10.8|  0.0|STATS |DuplicateFilter_DUPLICATE Feature Counter -1 2147680292 (TeeFactory): Cloned 23368 input feature(s) into 0 output feature(s)
+2020-04-28 23:07:11|  10.8|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 60137 input feature(s), wrote 60137 output feature(s): 0 matched merge filters, 60137 were routed to output, 0 could not be routed.
+2020-04-28 23:07:11|  10.8|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-04-28 23:07:11|  10.8|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-04-28 23:07:11|  10.8|  0.0|INFORM|Feature output statistics for `CSV2' writer using keyword `CSV2_3':
+2020-04-28 23:07:11|  10.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-04-28 23:07:11|  10.8|  0.0|STATS |                               Features Written
+2020-04-28 23:07:11|  10.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-04-28 23:07:11|  10.8|  0.0|STATS |ner_out_uuid_joined                                                      60137
+2020-04-28 23:07:11|  10.8|  0.0|STATS |==============================================================================
+2020-04-28 23:07:11|  10.8|  0.0|STATS |Total Features Written                                                   60137
+2020-04-28 23:07:11|  10.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-04-28 23:07:11|  10.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-04-28 23:07:11|  10.9|  0.0|STATS |                            Features Read Summary
+2020-04-28 23:07:11|  10.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-04-28 23:07:11|  10.9|  0.0|STATS |==============================================================================
+2020-04-28 23:07:11|  10.9|  0.0|STATS |Total Features Read                                                          0
+2020-04-28 23:07:11|  10.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-04-28 23:07:11|  10.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-04-28 23:07:11|  10.9|  0.0|STATS |                           Features Written Summary
+2020-04-28 23:07:11|  10.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-04-28 23:07:11|  10.9|  0.0|STATS |ner_out_uuid_joined                                                      60137
+2020-04-28 23:07:11|  10.9|  0.0|STATS |==============================================================================
+2020-04-28 23:07:11|  10.9|  0.0|STATS |Total Features Written                                                   60137
+2020-04-28 23:07:11|  10.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-04-28 23:07:11|  10.9|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2020-04-28 23:07:11|  10.9|  0.0|WARN  |-~                                                                             ~-
+2020-04-28 23:07:11|  10.9|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
+2020-04-28 23:07:11|  10.9|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
+2020-04-28 23:07:11|  10.9|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
+2020-04-28 23:07:11|  10.9|  0.0|WARN  |-~                                                                             ~-
+2020-04-28 23:07:11|  10.9|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2020-04-28 23:07:11|  10.9|  0.0|INFORM|Translation was SUCCESSFUL with 7 warning(s) (60137 feature(s) output)
+2020-04-28 23:07:11|  10.9|  0.0|INFORM|FME Session Duration: 10.9 seconds. (CPU: 7.6s user, 3.1s system)
+2020-04-28 23:07:11|  10.9|  0.0|INFORM|END - ProcessID: 11088, peak process memory usage: 201652 kB, current process memory usage: 73656 kB
